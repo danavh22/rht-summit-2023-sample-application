@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://images3.memedroid.com/images/UPLOADED861/6284d40b6e6b6.jpeg"
     ]
 kind: ConfigMap
 metadata:
